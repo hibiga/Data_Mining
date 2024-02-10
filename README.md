@@ -1,4 +1,4 @@
-Essaie de reproduire 3 TPs vu en cours sur R mais avec Python : 
+Essaie de reproduire 3 TPs vu en cours sur R (IUT STID, aussi présent) mais avec Python : 
 - Arbres de décision 
 - Agrégation autour de k centres mobiles 
 - Classification ascendante hiérarchique (pas développer) 
